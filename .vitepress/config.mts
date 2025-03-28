@@ -10,9 +10,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "主页", link: "/" },
-      { text: "路线 🚶‍➡️", link: "/path" },
+      { text: "路线 🚶", link: "/path" },
       { text: "美食 🍔", link: "/food" },
-      { text: "注意 📝", link: "/tips" },
     ],
 
     sidebarMenuLabel: "菜单",
@@ -21,9 +20,8 @@ export default defineConfig({
       {
         text: "攻略 🚩",
         items: [
-          { text: "路线 🚶‍➡️", link: "/path" },
+          { text: "路线 🚶", link: "/path" },
           { text: "美食 🍔", link: "/food" },
-          { text: "注意 📝", link: "/tips" },
         ],
       },
     ],

@@ -1,4 +1,4 @@
-# 路线🚶‍♂️‍➡️
+# 路线🚶‍♂️
 
 ## 📍DAY1
 
@@ -42,13 +42,7 @@
 
 ### **19:00 铜陵夜市**  🏯
 
-小吃：香香姜母鸭/三角点东山姜母鸭、湾记豆浆
-
-<img src="https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250326231604450.png" alt="image-20250326231604450" /><img src="https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250326231635391.png" alt="image-20250326231635391"  />
-
-正餐：来呷·食味、铜山粥铺、祥来排挡
-
-<img src="https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250326231758296.png" alt="image-20250326231758296" /><img src="https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250326231833303.png" alt="image-20250326231833303"  /><img src="https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250326231913168.png" alt="image-20250326231913168" />
+晚餐节目，这里很多小吃、海鲜馆 具体看美食篇（第二天也可以继续来这里吃饭，因为离民宿比较近且好吃的都在这边）
 
 ### **具体路线图** 🚩
 
@@ -93,7 +87,7 @@
 
 <img src="https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250326232916351.png" alt="image-20250326232916351"  />
 
-### **岩雅恋人 🕺**
+### **17:00岩雅恋人 🕺**
 
 可以拍悬崖大片，不过道路崎岖，要注意安全，可以不去
 
