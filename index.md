@@ -9,8 +9,14 @@ hero:
   image: https://godongshan.oss-cn-beijing.aliyuncs.com/undraw_trip_rh66.svg
   actions:
     - theme: brand
-      text: 查看攻略🚀
-      link: /markdown-examples
+      text: 路线🚶‍♂️‍➡️
+      link: /path
+    - theme: alt 
+      text: 美食🍲
+      link: /food
+    - theme: sponsor  
+      text: 注意事项📝
+      link: /tips
 
 features:
 

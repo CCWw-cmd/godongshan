@@ -1,8 +1,8 @@
-# 东山岛六人行
+# 路线🚶‍♂️‍➡️
 
-## **DAY1**
+## 📍DAY1
 
-### **15:00 南屿双面湾** 
+### **15:00 南屿双面湾** 🏝️
 
 <img src="https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250326225202914.png" alt="image-20250326225202914" />
 
@@ -10,21 +10,23 @@
 
 <img src="https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250326225748972.png" alt="image-20250326225748972"  />
 
-### 15:30 南门湾  
+### 15:30 南门湾  🏖️
 
 <img src="https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250326230712583.png" alt="image-20250326230712583"  />
 
 南门湾、左耳天台、顶街、风动石都连在一起，可以全程步行
 
-### 16:30 顶街   
+### 16:30 顶街  🚶‍♂️‍➡️ 
 
 <img src="https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250326231223843.png" alt="image-20250326231223843"  />
 
-顶街一直往上走就能找到《左耳》拍摄地🎬，天台可以俯瞰整个南门湾 （可以看日落）
+顶街一直往上走就能找到《左耳》拍摄地🎬
 
 <img src="https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250326231108708.png" alt="image-20250326231108708"  />
 
-### 17:30 左耳天台
+### 17:30 文公祠天台 🌇
+
+登顶10分钟，可以俯瞰整个南门湾和月牙海岸，可以选择在这里看日落
 
 听说在住户家里，需💰5门票或者买瓶饮料，天台共三层
 
@@ -32,13 +34,13 @@
 
 不同层次可拍不同图景
 
-### **18:30 朝圣楼**
+### **18:30 朝圣楼  🏯**
 
 <img src="https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250326231504604.png" alt="image-20250326231504604"  />
 
 回来路上可以顺便去阿勇果汁铺
 
-### **19:00 铜陵夜市** 
+### **19:00 铜陵夜市**  🏯
 
 小吃：香香姜母鸭/三角点东山姜母鸭、湾记豆浆
 
@@ -54,33 +56,44 @@
 
 
 
-## **DAY2**
+## 📍DAY2
 
-### 10:00 马銮湾 
+### 10:00 马銮湾 🏖️
+
+东山岛比较成熟的海滨浴场，可以在**鲸喜蓝眼泪咖啡厅**点杯咖啡躺平看海
 
 <img src="https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250326232647383.png" alt="image-20250326232647383"  />
 
-看蓝眼泪的热门地点
+海上娱乐项目有：
+
+- 摩托艇、帆船、香蕉船（人均100-200元）
+- 网红玻璃船拍照（38元/人，建议穿浅色泳衣）
+
+也可以选择在这里沙滩烧烤
+
+这也是看蓝眼泪的热门地点
 
 <img src="https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250326233403856.png" alt="image-20250326233403856"  />
 
-**14:00 彩蝶湾**
+### 14:00 🌈 彩蝶湾
+
+**海边彩虹小火车** （单程30元/人，全程15分钟）
 
 <img src="https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250326232442412.png" alt="image-20250326232442412"  />
 
-### **15:00 金銮湾**
+### **15:00 金銮湾 🌅**
 
 看日出最佳，不过咱们这个点没机会了😎  要去看日出的话可以第三天去，5:30到位
 
 <img src="https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250326232626417.png" alt="image-20250326232626417"  />
 
-### **16:00 苏峰山环岛路** 
+### **16:00 苏峰山环岛路 🛣️** 
 
 这里只能电动车或者观光车，所以建议全程电动车🛵
 
 <img src="https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250326232916351.png" alt="image-20250326232916351"  />
 
-### **岩雅恋人**
+### **岩雅恋人 🕺**
 
 可以拍悬崖大片，不过道路崎岖，要注意安全，可以不去
 
