@@ -16,6 +16,8 @@ export default defineConfig({
 
     sidebarMenuLabel: "菜单",
     returnToTopLabel: "返回顶部",
+    //手机端深浅模式文字修改 //
+    darkModeSwitchLabel: '深浅模式',
     sidebar: [
       {
         text: "攻略 🚩",
@@ -37,6 +39,12 @@ export default defineConfig({
         dateStyle: "short", // 可选值full、long、medium、short
         timeStyle: "medium", // 可选值full、long、medium、short
       },
+    },
+  },
+  markdown: {
+    image: {
+      // 开启图片懒加载
+      lazyLoading: true
     },
   },
 })

@@ -8,13 +8,21 @@
 
 《你的婚礼》拍摄地🎬、可以赶海，不过要注意潮汐时间，要最低点前后三小时才能上岛，我们去的那天按时间推算说不定涨潮了，到时去不了可以不去这里
 
+![image-20250330001114107](https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250330001114107.png)
+
 <img src="https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250326225748972.png" alt="image-20250326225748972"  />
 
 ### 15:30 南门湾  🏖️
 
+重点景点了，可以在这里坐着喝喝咖啡吹吹风，打打UNO😎
+
 <img src="https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250326230712583.png" alt="image-20250326230712583"  />
 
+![image-20250330001539360](https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250330001539360.png)
+
 南门湾、左耳天台、顶街、风动石都连在一起，可以全程步行
+
+![](https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250330003601567.png)
 
 ### 16:30 顶街  🚶‍♂️‍➡️ 
 
@@ -34,7 +42,13 @@
 
 ### 17:30 文公祠天台 🌇
 
-顶街一直往前走就会看到南望天台，《左耳》取景地的路标，登顶10分钟，可以俯瞰整个南门湾和月牙海岸，可以选择在这里看日落
+顶街一直往前走就会看到南望天台，《左耳》取景地的路标
+
+![image-20250330003507855](https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250330003507855.png)
+
+![image-20250330003004571](https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250330003004571.png)
+
+登顶10分钟，可以俯瞰整个南门湾和月牙海岸，可以选择在这里看日落
 
 <img src="https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250326231108708.png" alt="image-20250326231108708"  />
 
@@ -45,8 +59,6 @@
 不同层次可拍不同图景
 
 ![](https://godongshan.oss-cn-beijing.aliyuncs.com/image-20250329194716060.png)
-
-
 
 ### **18:30 朝圣楼  🏯**
 
